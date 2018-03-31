@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.DoubleSummaryStatistics;
 import java.util.List;
 import java.util.Random;
-
+//hello
 /**
  * Created by Artem on 11.05.2016.
  */
